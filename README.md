@@ -20,7 +20,7 @@ You can see and test the virtual hardware setup directly in your browser here:
 
 ---
 
-## 🚀 How the Company Can Test This Live
+## 🚀 How to Test This Live
 
 You can run this complete end-to-end network test in less than 2 minutes using your terminal:
 
